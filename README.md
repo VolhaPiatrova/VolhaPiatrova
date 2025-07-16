@@ -20,6 +20,7 @@ Test plan, checklist, test cases, defect reports, test run results from QASE.
 testing the main functionalities of the mobile application shopping list with results and report.  
 [Git, bash](https://github.com/VolhaPiatrova/git_bash) - 
 Working with git and bash, basic commands.  
+[Certificate of completion Functional Testing Course](http://rusau.net/check?gd=db3516fb-d5c7-4b91-9c9d-fce6c244a9e0)
 
 ### 🛠️  Tools I Use  
 <hr style="height:1px; border-width:0; color:gray; background-color:gray; margin: 20px 0">  
