@@ -1,7 +1,7 @@
 ### 👋 Hey, let's collab! 
 <hr style="height:1px; border-width:0; color:gray; background-color:gray; margin: 20px 0">  
 
-I am Olga and I am a Software QA Engineer. Check out my testing playground! 🚀 Course projects + personal experiments in web & mobile QA. You can view my [🔗 Resume](https://github.com/VolhaPiatrova/My_CV/blob/main/Volha%20Piatrova%20-%20QA%20Manual%20Engineer.pdf). Open for opportunities! 🚀 Passionate about learning, teamwork🤝, and creating meaningful tech solutions!  
+I am Olga and I am a Software QA Engineer. Check out my testing playground! 🚀 Course projects + personal experiments in web & mobile QA. You can view my [🔗 CV](https://github.com/VolhaPiatrova/My_CV/blob/main/Volha%20Piatrova%20-%20QA%20Manual%20Engineer.pdf). Open for opportunities! 🚀 Passionate about learning, teamwork🤝, and creating meaningful tech solutions!  
 
 ### 🌱 What have I done? 
 <hr style="height:1px; border-width:0; color:gray; background-color:gray; margin: 20px 0">  
